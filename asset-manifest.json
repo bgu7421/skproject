@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Modstore.ai/static/css/main.28147aff.chunk.css",
+    "main.js": "/Modstore.ai/static/js/main.45d273b8.chunk.js",
+    "main.js.map": "/Modstore.ai/static/js/main.45d273b8.chunk.js.map",
+    "runtime-main.js": "/Modstore.ai/static/js/runtime-main.faa5e141.js",
+    "runtime-main.js.map": "/Modstore.ai/static/js/runtime-main.faa5e141.js.map",
+    "static/js/2.1c9920aa.chunk.js": "/Modstore.ai/static/js/2.1c9920aa.chunk.js",
+    "static/js/2.1c9920aa.chunk.js.map": "/Modstore.ai/static/js/2.1c9920aa.chunk.js.map",
+    "index.html": "/Modstore.ai/index.html",
+    "precache-manifest.fd3e29858757f4a0470056b6932be9c0.js": "/Modstore.ai/precache-manifest.fd3e29858757f4a0470056b6932be9c0.js",
+    "service-worker.js": "/Modstore.ai/service-worker.js",
+    "static/css/main.28147aff.chunk.css.map": "/Modstore.ai/static/css/main.28147aff.chunk.css.map",
+    "static/js/2.1c9920aa.chunk.js.LICENSE.txt": "/Modstore.ai/static/js/2.1c9920aa.chunk.js.LICENSE.txt",
+    "static/media/logo-vertical-main-page.png": "/Modstore.ai/static/media/logo-vertical-main-page.da4be936.png",
+    "static/media/product-image.png": "/Modstore.ai/static/media/product-image.0217ed6e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.faa5e141.js",
+    "static/js/2.1c9920aa.chunk.js",
+    "static/css/main.28147aff.chunk.css",
+    "static/js/main.45d273b8.chunk.js"
+  ]
+}
